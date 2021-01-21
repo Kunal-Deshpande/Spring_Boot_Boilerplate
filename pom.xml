@@ -12,7 +12,7 @@
 	<artifactId>springbootboilerplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring Boot Boilerplate</name>
-	<description>Boiler Plateproject for Spring Boot</description>
+	<description>Boiler Plate Project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
